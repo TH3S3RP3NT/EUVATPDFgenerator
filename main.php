@@ -25,7 +25,7 @@ $data .= '<strong>Date and Time of the request: </strong>' . $r->requestDate . '
 $data .= '<strong>Country Code: </strong>' . $r->countryCode . '<br>';
 $data .= '<strong>VAT-Number: </strong>' . $r->vatNumber . '<br>';
 $data .= '<strong>Company name: </strong>' . $r->name . '<br>';
-$data .= '<strong>Adress: </strong>' . $r->address . '<br>';
+$data .= '<strong>Address: </strong>' . $r->address . '<br>';
 
 $mpdf->WriteHTML($data);
 
