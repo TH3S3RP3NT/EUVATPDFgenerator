@@ -2,4 +2,10 @@
 A PDF Maker to display data from the EU VIES Taxation VAT-number check
 
 # Requirements:
-1. 📄 MPDF (https://github.com/mpdf/mpdf)
+
+1. 📄 [mPDF](https://github.com/mpdf/mpdf)
+2. 💻 [PHP](https://www.php.net/downloads.php#v8.3.0)
+
+# Compatibility: 
+- `PHP 8.3` is supported as of v1
+- `mPDF v8.2.1` is supported as of v1
