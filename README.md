@@ -1,5 +1,5 @@
 # EUVATPDFgenerator
-A PDF Maker to display data from the EU VIES Taxation VAT-number check using mPDF and PHP 8.3
+A PDF Maker to display data from the EU VIES Taxation VAT-number check using mPDF v8.2.1 and PHP 8.3
 
 # Requirements:
 
